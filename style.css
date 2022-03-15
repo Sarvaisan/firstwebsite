@@ -1,3 +1,26 @@
+body{
+    background-color: yellow;
+    
+    }
+
+
+
 h1{
-    color: rebeccapurple;
+    color: rgb(51, 61, 153);
+font-size: 50px;
+text-align: center;
+font-family: 'BhuTuka Expanded One', cursive;
+
+}
+
+h2 {
+color: brown;
+font-size: 20px;
+text-align: justify;
+font-family: 'Rubik', sans-serif;
+}
+
+p{
+    text-align: justify;
+    border: purple 3px solid;
 }
